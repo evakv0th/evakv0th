@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Glib from Kyiv
+- 👋 Hi, I’m Glib
 - 👀 I’m interested in hendehogs
 - 🌱 I’m currently learning javaScript (react express.js firebase)
 
